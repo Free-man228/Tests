@@ -1,5 +1,5 @@
 # Chess King in Python
-
+ 
 ## Overview
 
 This project is a simple chess game model implemented in Python, demonstrating object-oriented programming (OOP) principles. It includes a class hierarchy with at least two levels of inheritance, focusing on chess pieces and a game board. The code provides a foundation for a chess game, with basic functionality for piece movement and board management.
